@@ -1,5 +1,5 @@
 # branch-practice
 
-## user
+## USER NAME
 
-- CATERINA-SEUL : 윤예슬
+- CATERINA-SEUL : 윤예슬(Yeseul Yoon)
