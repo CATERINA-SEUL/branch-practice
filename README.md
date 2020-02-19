@@ -1,3 +1,5 @@
 # branch-practice
 
-- CATERINA-SEUL : Yeseul Yoon
+## USER NAME
+
+- Yeseul Yoon
