@@ -1,3 +1,5 @@
 # branch-practice
 
-- CATERINA-SEUL : Yeseul Yoon
+## user
+
+- CATERINA-SEUL : 윤예슬
